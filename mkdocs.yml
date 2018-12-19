@@ -1,7 +1,17 @@
-site_name: Documentation for the Web3 stack!
+site_name: Web3 Tech Stack
+site_description: 'Documentation for the Web3 Technology Stack'
+site_author: 'Web3 Foundation'
+site_url: 'https://w3f.github.io/web3/'
 
 theme:
   name: 'material'
+  palette:
+    primary: 'deep orange'
+    accent: 'deep orange'
+  logo: 'images/logo.svg'
+  
+extra_css:
+  - 'stylesheets/extra.css'
 
 nav:
   - Home: index.md
@@ -11,3 +21,14 @@ nav:
   - Layer 3: layer_3/index.md
   - Layer 4: layer_4/index.md
 
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/w3f'
+    - type: 'twitter'
+      link: 'https://twitter.com/web3foundation'
+    - type: 'medium'
+      link: 'https://medium.com/web3foundation'
+
+repo_name: 'w3f/web3'
+repo_url: 'https://github.com/w3f/web3'
