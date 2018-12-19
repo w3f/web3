@@ -1,0 +1,13 @@
+site_name: Documentation for the Web3 stack!
+
+theme:
+  name: 'material'
+
+nav:
+  - Home: index.md
+  - Layer 0: layer_0/index.md
+  - Layer 1: layer_1/index.md
+  - Layer 2: layer_2/index.md
+  - Layer 3: layer_3/index.md
+  - Layer 4: layer_4/index.md
+
