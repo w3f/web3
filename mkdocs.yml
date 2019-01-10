@@ -30,5 +30,9 @@ extra:
     - type: 'medium'
       link: 'https://medium.com/web3foundation'
 
-repo_name: 'w3f/web3'
-repo_url: 'https://github.com/w3f/web3'
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+        permalink: true
