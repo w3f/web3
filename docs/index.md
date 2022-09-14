@@ -1,6 +1,9 @@
 # Welcome to the Web3 Technology Stack
 
-**Disclaimer:** _This open source resource is a work in progress and is not an exhaustive list of all the projects in the Web3 Tech Stack. This resource should not be interpreted as a promotion or validation of any of the projects herein._
+
+
+
+**Disclaimer:** _This page is out-of-date, but is kept here for historical reasons. For the latest and most up-to-date description of the Web3 / Polkadot Stack and projects being built with it, please see the [Polkadot Wiki](https://wiki.polkadot.network/) page on the [Open Source Polkadot Stack](https://wiki.polkadot.network/docs/build-open-source)_.
 
 ## About
 Web 3 is the vision of the serverless internet, the decentralised web. An internet where users are in control of
